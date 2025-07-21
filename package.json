@@ -31,10 +31,11 @@
 	"scripts": {
 		"build": "tsup",
 		"watch": "tsup --watch",
-		"test": "vitest run",
-		"test:dev": "npm run build && vitest run",
-		"test:watch": "vitest",
-		"test:coverage": "vitest run --coverage",
+		"test": "npm run build && vitest run",
+		"test:unit": "vitest run src",
+		"test:e2e": "npm run build && vitest run e2e",
+		"test:watch": "vitest run --watch src",
+		"test:coverage": "npm run build && vitest run --coverage",
 		"format": "biome check --fix --unsafe",
 		"format:check": "biome ci",
 		"compile": "tsp compile ."
