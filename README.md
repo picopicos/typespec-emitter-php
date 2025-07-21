@@ -9,7 +9,7 @@
 [![release](https://img.shields.io/badge/release-not_yet_released-orange)](https://github.com/picopicos/typespec-emitter-php)
 [![GitHub last commit](https://img.shields.io/github/last-commit/picopicos/typespec-emitter-php)](https://github.com/picopicos/typespec-emitter-php/commits/main)
 [![codecov](https://codecov.io/gh/picopicos/typespec-emitter-php/graph/badge.svg)](https://codecov.io/gh/picopicos/typespec-emitter-php)
-[![CI](https://github.com/picopicos/typespec-emitter-php/actions/workflows/ci.yml/badge.svg)](https://github.com/picopicos/typespec-emitter-php/actions/workflows/ci.yml)
+[![CI](https://github.com/picopicos/typespec-emitter-php/actions/workflows/ci.yaml/badge.svg)](https://github.com/picopicos/typespec-emitter-php/actions/workflows/ci.yaml)
 
 </div>
 
