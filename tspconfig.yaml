@@ -1,0 +1,6 @@
+emit:
+  - '@picopico/typespec-emitter-php'
+
+options:
+  '@picopico/typespec-emitter-php':
+    emitter-output-dir: '{project-root}/tsp-output/typespec-emitter-php'
